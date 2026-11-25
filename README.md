@@ -60,10 +60,20 @@
 
 **两种使用方式（选一个就行）：**
 
-| 微信小程序（微信扫码即用） | 鸿蒙 App（华为应用市场） |
-|:---:|:---:|
-| ![微信小程序码](miniapp-qrcode.png) | ![鸿蒙App下载码](harmony-qrcode.png) |
-| 记录器顶栏「成本计算器」→ 扫码 | 搜索「明日小助手」或直接扫码 |
+<table>
+  <tr>
+    <th align="center">微信小程序（微信扫码即用）</th>
+    <th align="center">鸿蒙 App（华为应用市场）</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="miniapp-qrcode.png" width="220" /></td>
+    <td align="center"><img src="harmony-qrcode.png" width="220" /></td>
+  </tr>
+  <tr>
+    <td align="center">记录器顶栏「成本计算器」→ 扫码</td>
+    <td align="center">搜索「明日小助手」或直接扫码</td>
+  </tr>
+</table>
 
 ## 七、注意事项
 
